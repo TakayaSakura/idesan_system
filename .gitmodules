@@ -1,0 +1,3 @@
+[submodule "xss-test"]
+	path = xss-test
+	url = git@github.com:yusuke-hata-code/xss-test.git
